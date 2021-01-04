@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Infrastructures.deps.json
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Infrastructures.dll
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Infrastructures.pdb
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.0\Infrastructures.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.0\Infrastructures.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.0\Infrastructures.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.0\Infrastructures.dll
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.0\Infrastructures.pdb
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Application.dll
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Persistence.dll
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Application.pdb
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.0\Persistence.pdb
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.0\Infrastructures.csproj.CopyComplete
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.0\Infrastructures.csproj.CoreCompileInputs.cache

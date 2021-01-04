@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.1\Infrastructures.deps.json
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.1\Infrastructures.dll
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.1\Infrastructures.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.1\Infrastructures.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.1\Infrastructures.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QA\Infrastructures\bin\Debug\netcoreapp3.1\Infrastructures.pdb
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.1\Infrastructures.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.1\Infrastructures.dll
+C:\Users\Admin\source\repos\QA\Infrastructures\obj\Debug\netcoreapp3.1\Infrastructures.pdb
